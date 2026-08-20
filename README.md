@@ -41,4 +41,4 @@ Selected dashboards are also published on Tableau Public Profile
 
 ## About Me
 
-I’m Satish Manoj, a Data Analyst / Tableau Developer with 1 year 9 months of experience in building dashboards and working with SQL, Power BI, Azure, Databricks, and ServiceNow.
+I’m Satish, a Data Analyst / Tableau Developer with 2 year 8 months of experience in building dashboards and working with SQL, Power BI, Azure, Databricks, and ServiceNow.
